@@ -1,0 +1,41 @@
+.second-imgs {
+    width: 100%;
+    height: Hug (845px)px;
+    gap: 24px;
+    display: flex;
+}
+
+.left {
+    margin-top: 60px;
+}
+
+.left h2 {
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.left p {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 28.27px;
+    letter-spacing: 0.02em;
+    text-align: left;
+}
+
+.img-left {
+    margin-top: 24px;
+    width: 591px;
+    height: 525px;
+    gap: 0px;
+    border-radius: 24px 0px 0px 0px;
+    opacity: 0px;
+}
+
+.right {
+    width: 100%;
+    height: Fill (717px)px;
+    padding-left: 40px;
+    margin-top: 60px;
+}
